@@ -32,6 +32,11 @@ const teacherRoutes = [
         label: "Analytics",
         href: "/teacher/Analytics"
     },
+    {
+        icon: List,
+        label: "Create course",
+        href: "/teacher/create"
+    },
 ]
 
 const SidebarRoutes = () => {
